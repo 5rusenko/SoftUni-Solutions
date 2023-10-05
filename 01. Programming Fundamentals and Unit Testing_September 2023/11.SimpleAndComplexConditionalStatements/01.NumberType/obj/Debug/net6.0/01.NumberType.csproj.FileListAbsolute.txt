@@ -1,0 +1,4 @@
+/Users/martinpetrusenko/Documents/SoftUni/C# Projects/01. Programming Fundamentals and Unit Testing_September 2023/10.SimpleAndComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/C# Projects/01. Programming Fundamentals and Unit Testing_September 2023/10.SimpleAndComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/C# Projects/01. Programming Fundamentals and Unit Testing_September 2023/10.SimpleAndComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/C# Projects/01. Programming Fundamentals and Unit Testing_September 2023/10.SimpleAndComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.csproj.CoreCompileInputs.cache

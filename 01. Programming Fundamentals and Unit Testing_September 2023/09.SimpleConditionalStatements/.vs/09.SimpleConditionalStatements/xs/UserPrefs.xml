@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F2A50A83-80DC-4CBB-8639-B96077172310}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08.TicketPrice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.SpeedInfo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Number1To9AsWords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.BoilingWater PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.EvenOrOdd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.AreaOfFigures PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="12.CoffeeShopWithChecks/12.CoffeeShopWithChecks.cs">
+    <Files>
+      <File FileName="02.EvenOrOdd/02.EvenOrOdd.cs" Line="1" Column="1" />
+      <File FileName="10.validTriangle/Program.cs" Line="20" Column="9" />
+      <File FileName="09.AreaOfFigures/09.AreaOfFigures.cs" Line="1" Column="1" />
+      <File FileName="11.CoffeeShop/Program.cs" Line="22" Column="77" />
+      <File FileName="12.CoffeeShopWithChecks/Program.cs" Line="33" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09.SimpleConditionalStatements" expanded="True">
+            <Node name="12.CoffeeShopWithChecks" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.GreaterNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.FreezingWater PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.CoffeeShopWithChecks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.ValidTriangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.11.CoffeeShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.GuessThePassword PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
