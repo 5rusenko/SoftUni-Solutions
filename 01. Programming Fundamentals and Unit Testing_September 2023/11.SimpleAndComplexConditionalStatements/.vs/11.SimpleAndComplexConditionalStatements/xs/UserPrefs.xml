@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{647DA346-C808-42E8-89D5-91A312F07695}|Default">
+﻿<Properties StartupConfiguration="{FBA06687-B3A8-446E-A4AF-798FED5A1991}|Default">
   <MonoDevelop.Ide.ItemProperties.03.BiggestOfFiveNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.ProductOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09.SumSeconds PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.SumSeconds PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.VacationExpenses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.WorkingHours PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="05.VacationExpenses/05.VacationExpenses.cs">
@@ -26,5 +26,6 @@
   <MonoDevelop.Ide.ItemProperties.08.InvalidNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.NumberOperations PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.NumberType PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.SummerClothing PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
