@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/martinpetrusenko/Documents/Documents - Martin’s MacBook Air/SoftUni/SoftUni-Coding-Tasks/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/03.BiggestOfFiveNumbers/03.BiggestOfFiveNumbers.csproj",
+      "projectUniqueName": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/03.BiggestOfFiveNumbers/03.BiggestOfFiveNumbers.csproj",
       "projectName": "03.BiggestOfFiveNumbers",
-      "projectPath": "/Users/martinpetrusenko/Documents/Documents - Martin’s MacBook Air/SoftUni/SoftUni-Coding-Tasks/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/03.BiggestOfFiveNumbers/03.BiggestOfFiveNumbers.csproj",
+      "projectPath": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/03.BiggestOfFiveNumbers/03.BiggestOfFiveNumbers.csproj",
       "packagesPath": "/Users/martinpetrusenko/.nuget/packages/",
-      "outputPath": "/Users/martinpetrusenko/Documents/Documents - Martin’s MacBook Air/SoftUni/SoftUni-Coding-Tasks/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/03.BiggestOfFiveNumbers/obj/",
+      "outputPath": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/03.BiggestOfFiveNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/martinpetrusenko/.nuget/NuGet/NuGet.Config"

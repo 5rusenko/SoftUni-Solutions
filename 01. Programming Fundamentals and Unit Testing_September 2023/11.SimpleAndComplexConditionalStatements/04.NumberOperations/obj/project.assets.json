@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/martinpetrusenko/Documents/Documents - Martin’s MacBook Air/SoftUni/SoftUni-Coding-Tasks/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/04.NumberOperations/04.NumberOperations.csproj",
+      "projectUniqueName": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/04.NumberOperations/04.NumberOperations.csproj",
       "projectName": "04.NumberOperations",
-      "projectPath": "/Users/martinpetrusenko/Documents/Documents - Martin’s MacBook Air/SoftUni/SoftUni-Coding-Tasks/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/04.NumberOperations/04.NumberOperations.csproj",
+      "projectPath": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/04.NumberOperations/04.NumberOperations.csproj",
       "packagesPath": "/Users/martinpetrusenko/.nuget/packages/",
-      "outputPath": "/Users/martinpetrusenko/Documents/Documents - Martin’s MacBook Air/SoftUni/SoftUni-Coding-Tasks/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/04.NumberOperations/obj/",
+      "outputPath": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/04.NumberOperations/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/martinpetrusenko/.nuget/NuGet/NuGet.Config"
