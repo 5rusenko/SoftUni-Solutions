@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{4F6C2E39-6D91-4B62-B91B-696DB78A4588}|Default">
+﻿<Properties StartupConfiguration="{B019E284-4736-4284-9EBC-C4796C439F8E}|Default">
   <MonoDevelop.Ide.ItemProperties.03.BiggestOfFiveNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.VacationExpenses PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.06.ProductOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.VacationExpenses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="05.VacationExpenses/05.VacationExpenses.cs">
     <Files>
       <File FileName="01.NumberType/01.NumberType.cs" Line="1" Column="1" />
