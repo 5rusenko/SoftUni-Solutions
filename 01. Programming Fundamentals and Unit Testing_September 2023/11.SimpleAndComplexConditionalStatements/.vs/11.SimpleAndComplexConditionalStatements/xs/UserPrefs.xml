@@ -4,28 +4,33 @@
   <MonoDevelop.Ide.ItemProperties.09.SumSeconds PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.VacationExpenses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.WorkingHours PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="05.VacationExpenses/05.VacationExpenses.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.SummerClothing/10.SummerClothing.cs">
     <Files>
       <File FileName="01.NumberType/01.NumberType.cs" Line="1" Column="1" />
-      <File FileName="05.VacationExpenses/Program.cs" Line="14" Column="25" />
+      <File FileName="05.VacationExpenses/05.VacationExpenses.cs" Line="54" Column="66" />
+      <File FileName="06.ProductOfThreeNumbers/Program.cs" Line="30" Column="21" />
+      <File FileName="11.WorkingHours/Program.cs" Line="37" Column="6" />
+      <File FileName="08.InvalidNumber/Program.cs" Line="14" Column="42" />
+      <File FileName="09.SumSeconds/Program.cs" Line="22" Column="1" />
+      <File FileName="10.SummerClothing/Program.cs" Line="32" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="11.SimpleAndComplexConditionalStatements" expanded="True">
-            <Node name="01.NumberType" expanded="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.02.ATM PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/11.SimpleAndComplexConditionalStatements/09.SumSeconds/09.SumSeconds.cs" relfile="09.SumSeconds/09.SumSeconds.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.08.InvalidNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.NumberOperations PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.NumberType PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.10.SummerClothing PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10.SummerClothing PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
