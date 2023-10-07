@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NumbersInRange", "12.For
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FirstNNumbersSum", "02.FirstNNumbersSum\02.FirstNNumbersSum.csproj", "{DFE994FB-9AE4-4ED8-95C3-3F31573C7E6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SumNumbers", "03.SumNumbers\03.SumNumbers.csproj", "{AF142848-B4CC-4242-97E0-106C9743B3A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DFE994FB-9AE4-4ED8-95C3-3F31573C7E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE994FB-9AE4-4ED8-95C3-3F31573C7E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE994FB-9AE4-4ED8-95C3-3F31573C7E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF142848-B4CC-4242-97E0-106C9743B3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF142848-B4CC-4242-97E0-106C9743B3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF142848-B4CC-4242-97E0-106C9743B3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF142848-B4CC-4242-97E0-106C9743B3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
