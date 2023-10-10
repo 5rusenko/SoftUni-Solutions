@@ -3,7 +3,7 @@ class Program
 {
     static void GradeWords(double grade)
     {
-        if (grade <=2.00 && grade<3.00)
+        if (grade >=2.00 && grade<3.00)
         {
             Console.WriteLine("Fail");
         }
@@ -19,7 +19,7 @@ class Program
         {
             Console.WriteLine("Very good");
         }
-        else if (grade >= 5.50 && grade >= 6.00)
+        else if (grade >= 5.50 && grade <= 6.00)
         {
             Console.WriteLine("Excellent");
         }
@@ -29,6 +29,7 @@ class Program
     {
         double grade = double.Parse(Console.ReadLine());
         GradeWords(grade);
+
     }
 }
 
