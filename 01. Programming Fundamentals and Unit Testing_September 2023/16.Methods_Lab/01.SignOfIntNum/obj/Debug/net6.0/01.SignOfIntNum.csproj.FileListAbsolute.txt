@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/bin/Debug/net6.0/01.SignOfIntNum
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/bin/Debug/net6.0/01.SignOfIntNum.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/bin/Debug/net6.0/01.SignOfIntNum.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/bin/Debug/net6.0/01.SignOfIntNum.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/bin/Debug/net6.0/01.SignOfIntNum.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/refint/01.SignOfIntNum.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/01.SignOfIntNum.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/01.SignOfIntNum/obj/Debug/net6.0/ref/01.SignOfIntNum.dll
