@@ -3,7 +3,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int countNum = int.Parse(Console.ReadLine());
+        double sum = 0;
+
+        for (int i = 1; i<=countNum; i+=1)
+        {
+            double InputNum = double.Parse(Console.ReadLine());
+            sum = sum + InputNum;
+        }
+        Console.WriteLine(sum);    
     }
 }
 
