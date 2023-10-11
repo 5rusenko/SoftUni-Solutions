@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/bin/Debug/net6.0/05.RepeatString
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/bin/Debug/net6.0/05.RepeatString.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/bin/Debug/net6.0/05.RepeatString.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/bin/Debug/net6.0/05.RepeatString.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/bin/Debug/net6.0/05.RepeatString.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/refint/05.RepeatString.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/05.RepeatString.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/05.RepeatString/obj/Debug/net6.0/ref/05.RepeatString.dll

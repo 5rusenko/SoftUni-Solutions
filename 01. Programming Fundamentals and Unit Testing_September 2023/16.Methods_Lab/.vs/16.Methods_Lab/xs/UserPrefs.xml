@@ -1,6 +1,9 @@
-﻿<Properties StartupConfiguration="{2CC83746-32C6-4C0E-85C9-C31F037EA352}|Default">
-  <MonoDevelop.Ide.ItemProperties.03.Triangle PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+﻿<Properties StartupConfiguration="{8FA76CAE-775C-43F6-8645-8291C1ECB2C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.CalculateRectangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.MathPower PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Triangle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.RepeatString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.SignOfIntNum__Method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.SignOfIntNum PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />

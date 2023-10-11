@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/bin/Debug/net6.0/06.MathPower
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/bin/Debug/net6.0/06.MathPower.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/bin/Debug/net6.0/06.MathPower.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/bin/Debug/net6.0/06.MathPower.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/bin/Debug/net6.0/06.MathPower.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/refint/06.MathPower.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/06.MathPower.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/06.MathPower/obj/Debug/net6.0/ref/06.MathPower.dll
