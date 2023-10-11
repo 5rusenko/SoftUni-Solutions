@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RepeatString", "05.Repea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MathPower", "06.MathPower\06.MathPower.csproj", "{8FA76CAE-775C-43F6-8645-8291C1ECB2C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.GreaterOf2Values", "07.GreaterOf2Values\07.GreaterOf2Values.csproj", "{D22143C3-C711-4C4A-AE01-E335DFFA9DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MultiplyEvensByOdds", "08.MultiplyEvensByOdds\08.MultiplyEvensByOdds.csproj", "{605BFB29-1F6B-4CFA-ADA8-2752EE86EF07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{8FA76CAE-775C-43F6-8645-8291C1ECB2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FA76CAE-775C-43F6-8645-8291C1ECB2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA76CAE-775C-43F6-8645-8291C1ECB2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22143C3-C711-4C4A-AE01-E335DFFA9DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22143C3-C711-4C4A-AE01-E335DFFA9DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22143C3-C711-4C4A-AE01-E335DFFA9DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22143C3-C711-4C4A-AE01-E335DFFA9DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605BFB29-1F6B-4CFA-ADA8-2752EE86EF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605BFB29-1F6B-4CFA-ADA8-2752EE86EF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605BFB29-1F6B-4CFA-ADA8-2752EE86EF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605BFB29-1F6B-4CFA-ADA8-2752EE86EF07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
