@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/bin/Debug/net6.0/04.SumOfDigits
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/bin/Debug/net6.0/04.SumOfDigits.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/bin/Debug/net6.0/04.SumOfDigits.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/bin/Debug/net6.0/04.SumOfDigits.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/bin/Debug/net6.0/04.SumOfDigits.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/refint/04.SumOfDigits.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/04.SumOfDigits.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/04.SumOfDigits/obj/Debug/net6.0/ref/04.SumOfDigits.dll

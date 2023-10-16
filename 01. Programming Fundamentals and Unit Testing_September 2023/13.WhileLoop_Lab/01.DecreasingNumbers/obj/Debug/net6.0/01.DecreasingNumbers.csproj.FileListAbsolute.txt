@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/bin/Debug/net6.0/01.DecreasingNumbers
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/bin/Debug/net6.0/01.DecreasingNumbers.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/bin/Debug/net6.0/01.DecreasingNumbers.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/bin/Debug/net6.0/01.DecreasingNumbers.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/bin/Debug/net6.0/01.DecreasingNumbers.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/refint/01.DecreasingNumbers.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/01.DecreasingNumbers.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/01.DecreasingNumbers/obj/Debug/net6.0/ref/01.DecreasingNumbers.dll

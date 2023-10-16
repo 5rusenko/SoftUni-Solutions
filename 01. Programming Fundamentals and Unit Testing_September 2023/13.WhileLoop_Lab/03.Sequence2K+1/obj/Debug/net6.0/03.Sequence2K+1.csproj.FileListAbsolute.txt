@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/bin/Debug/net6.0/03.Sequence2K+1
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/bin/Debug/net6.0/03.Sequence2K+1.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/bin/Debug/net6.0/03.Sequence2K+1.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/bin/Debug/net6.0/03.Sequence2K+1.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/bin/Debug/net6.0/03.Sequence2K+1.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/refint/03.Sequence2K+1.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/03.Sequence2K+1.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/13.WhileLoop_Lab/03.Sequence2K+1/obj/Debug/net6.0/ref/03.Sequence2K+1.dll
