@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/bin/Debug/net6.0/01.NumbersNTo1
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/bin/Debug/net6.0/01.NumbersNTo1.deps.json
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/bin/Debug/net6.0/01.NumbersNTo1.runtimeconfig.json
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/bin/Debug/net6.0/01.NumbersNTo1.dll
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/bin/Debug/net6.0/01.NumbersNTo1.pdb
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.AssemblyInfo.cs
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.dll
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/refint/01.NumbersNTo1.dll
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.pdb
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/01.NumbersNTo1.genruntimeconfig.cache
+/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/Debug/net6.0/ref/01.NumbersNTo1.dll
