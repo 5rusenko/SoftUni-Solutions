@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/bin/Debug/net6.0/09.Orders
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/bin/Debug/net6.0/09.Orders.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/bin/Debug/net6.0/09.Orders.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/bin/Debug/net6.0/09.Orders.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/bin/Debug/net6.0/09.Orders.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/refint/09.Orders.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/09.Orders.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/16.Methods_Lab/09.Orders/obj/Debug/net6.0/ref/09.Orders.dll
