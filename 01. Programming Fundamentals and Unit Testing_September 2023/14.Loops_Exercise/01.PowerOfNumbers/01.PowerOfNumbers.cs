@@ -1,9 +1,9 @@
 ﻿int num = int.Parse(Console.ReadLine());
 int pow = int.Parse(Console.ReadLine());
-int result = 0;
+int result = 1;
 
-for (int i = 0; i<=pow; i+=1)
+for (int i = 1; i<=pow; i++)
 {
-    result = num * i;
+    result = result*num;
 }
 Console.WriteLine(result);

@@ -1,4 +1,9 @@
-﻿<Properties StartupConfiguration="{AF41D25B-C39C-4E0D-A509-B9B2B1EE3749}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.PowerOfNumbers FirstBuild="True" />
+﻿<Properties StartupConfiguration="{280F89BF-80C7-4DE5-B5CD-8DC5FDDF9C06}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.1.PowerOfNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.DivisionTo2__3__4 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.MultiplicationTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.BiggestNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.VowelSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.PowerOfNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

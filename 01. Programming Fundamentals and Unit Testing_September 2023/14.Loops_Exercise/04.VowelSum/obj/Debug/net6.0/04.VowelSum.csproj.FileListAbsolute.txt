@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/bin/Debug/net6.0/04.VowelSum
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/bin/Debug/net6.0/04.VowelSum.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/bin/Debug/net6.0/04.VowelSum.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/bin/Debug/net6.0/04.VowelSum.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/bin/Debug/net6.0/04.VowelSum.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/refint/04.VowelSum.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/04.VowelSum.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/04.VowelSum/obj/Debug/net6.0/ref/04.VowelSum.dll

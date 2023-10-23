@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/bin/Debug/net6.0/01.1.PowerOfNumbers
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/bin/Debug/net6.0/01.1.PowerOfNumbers.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/bin/Debug/net6.0/01.1.PowerOfNumbers.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/bin/Debug/net6.0/01.1.PowerOfNumbers.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/bin/Debug/net6.0/01.1.PowerOfNumbers.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/refint/01.1.PowerOfNumbers.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/01.1.PowerOfNumbers.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/01.1.PowerOfNumbers/obj/Debug/net6.0/ref/01.1.PowerOfNumbers.dll
