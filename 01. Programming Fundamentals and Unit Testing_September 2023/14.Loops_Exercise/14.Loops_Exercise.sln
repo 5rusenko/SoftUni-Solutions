@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SpecialNumber", "06.Spec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SpecialBonus", "07.SpecialBonus\07.SpecialBonus.csproj", "{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AccountBalance", "08.AccountBalance\08.AccountBalance.csproj", "{9416770C-7CD5-472E-990E-F415F5851F93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9416770C-7CD5-472E-990E-F415F5851F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9416770C-7CD5-472E-990E-F415F5851F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9416770C-7CD5-472E-990E-F415F5851F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9416770C-7CD5-472E-990E-F415F5851F93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{280F89BF-80C7-4DE5-B5CD-8DC5FDDF9C06}|Default">
+﻿<Properties StartupConfiguration="{9416770C-7CD5-472E-990E-F415F5851F93}|Default">
   <MonoDevelop.Ide.ItemProperties.06.SpecialNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.AccountBalance PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.1.PowerOfNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.DivisionTo2__3__4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.MultiplicationTable PreferredExecutionTarget="MonoDevelop.Default" />

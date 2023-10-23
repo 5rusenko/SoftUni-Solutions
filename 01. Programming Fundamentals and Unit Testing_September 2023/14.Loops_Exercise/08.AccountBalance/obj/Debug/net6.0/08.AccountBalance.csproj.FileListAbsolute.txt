@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/bin/Debug/net6.0/08.AccountBalance
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/bin/Debug/net6.0/08.AccountBalance.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/bin/Debug/net6.0/08.AccountBalance.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/bin/Debug/net6.0/08.AccountBalance.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/bin/Debug/net6.0/08.AccountBalance.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/refint/08.AccountBalance.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/08.AccountBalance.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/14.Loops_Exercise/08.AccountBalance/obj/Debug/net6.0/ref/08.AccountBalance.dll
