@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.VowelSum", "04.VowelSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DivisionTo2_3_4", "05.DivisionTo2_3_4\05.DivisionTo2_3_4.csproj", "{280F89BF-80C7-4DE5-B5CD-8DC5FDDF9C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SpecialNumber", "06.SpecialNumber\06.SpecialNumber.csproj", "{FBD2FAB3-8CB8-4F59-B2F7-FAFE175AB830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SpecialBonus", "07.SpecialBonus\07.SpecialBonus.csproj", "{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{280F89BF-80C7-4DE5-B5CD-8DC5FDDF9C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{280F89BF-80C7-4DE5-B5CD-8DC5FDDF9C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{280F89BF-80C7-4DE5-B5CD-8DC5FDDF9C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD2FAB3-8CB8-4F59-B2F7-FAFE175AB830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD2FAB3-8CB8-4F59-B2F7-FAFE175AB830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD2FAB3-8CB8-4F59-B2F7-FAFE175AB830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD2FAB3-8CB8-4F59-B2F7-FAFE175AB830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6466D6CF-6CA5-4AC3-8326-01DCCC5DD983}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

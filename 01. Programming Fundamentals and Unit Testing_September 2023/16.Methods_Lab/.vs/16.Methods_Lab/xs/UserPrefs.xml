@@ -4,22 +4,15 @@
   <MonoDevelop.Ide.ItemProperties.06.MathPower PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.Triangle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Grades PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="07.GreaterOf2Values/07.GreaterOf2Values.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.Orders/09.Orders.cs">
     <Files>
-      <File FileName="01.SignOfIntNum/Program.cs" Line="12" Column="23" />
-      <File FileName="01.SignOfIntNum_Method/Program.cs" Line="19" Column="36" />
-      <File FileName="02.Grades/Program.cs" Line="29" Column="6" />
-      <File FileName="03.Triangle/Program.cs" Line="14" Column="6" />
-      <File FileName="04.CalculateRectangleArea/Program.cs" Line="10" Column="25" />
-      <File FileName="05.RepeatString/Program.cs" Line="16" Column="27" />
-      <File FileName="06.MathPower/Program.cs" Line="18" Column="27" />
-      <File FileName="07.GreaterOf2Values/Program.cs" Line="40" Column="6" />
-      <File FileName="08.MultiplyEvensByOdds/Program.cs" Line="1" Column="1" />
+      <File FileName="08.MultiplyEvensByOdds/08.MultiplyEvensByOdds.cs" Line="11" Column="19" />
+      <File FileName="09.Orders/Program.cs" Line="28" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="16.Methods_Lab" selected="True" />
+          <Node name="16.Methods_Lab" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -30,10 +23,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.05.RepeatString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.01.SignOfIntNum__Method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.SignOfIntNum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.GreaterOf2Values PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09.Orders PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.Orders PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
