@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/bin/Debug/net6.0/demoStars
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/bin/Debug/net6.0/demoStars.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/bin/Debug/net6.0/demoStars.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/bin/Debug/net6.0/demoStars.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/bin/Debug/net6.0/demoStars.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/refint/demoStars.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/demoStars.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/demoStars/obj/Debug/net6.0/ref/demoStars.dll

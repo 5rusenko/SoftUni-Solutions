@@ -1,4 +1,8 @@
-﻿<Properties StartupConfiguration="{F6D19F16-0F24-4129-B05A-35019F3AD3B3}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.NumbersNTo1 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{417C4DDC-911D-4EEB-9D98-B89FC76A1B56}|Default">
+  <MonoDevelop.Ide.ItemProperties.demoStars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.EvenPowersOf2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.Building PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.TriangleOfStars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.NumbersNTo1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

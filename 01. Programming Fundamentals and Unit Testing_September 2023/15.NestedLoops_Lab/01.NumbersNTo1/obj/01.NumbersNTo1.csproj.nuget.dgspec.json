@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj": {}
+    "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj": {}
   },
   "projects": {
-    "/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj": {
+    "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj",
+        "projectUniqueName": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj",
         "projectName": "01.NumbersNTo1",
-        "projectPath": "/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj",
+        "projectPath": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/01.NumbersNTo1/01.NumbersNTo1.csproj",
         "packagesPath": "/Users/martinpetrusenko/.nuget/packages/",
-        "outputPath": "/Users/martinpetrusenko/Projects/15.NestedLoops_Lab/01.NumbersNTo1/obj/",
+        "outputPath": "/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/01.NumbersNTo1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/martinpetrusenko/.nuget/NuGet/NuGet.Config"
