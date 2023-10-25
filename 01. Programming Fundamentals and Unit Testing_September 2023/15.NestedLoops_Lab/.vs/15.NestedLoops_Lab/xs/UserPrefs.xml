@@ -1,9 +1,11 @@
-﻿<Properties StartupConfiguration="{417C4DDC-911D-4EEB-9D98-B89FC76A1B56}|Default">
+﻿<Properties StartupConfiguration="{F69A576F-77DB-4A5C-8514-A3D8FA246564}|Default">
   <MonoDevelop.Ide.ItemProperties.demoStars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.PrimeNumbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.EvenPowersOf2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.07.SumOfDigitsCalculator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.Building PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.TriangleOfStars PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="04.Building/04.Building.cs">
@@ -29,7 +31,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.01.NumbersNTo1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.06.TravelSavings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.05.NumberPyramid PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

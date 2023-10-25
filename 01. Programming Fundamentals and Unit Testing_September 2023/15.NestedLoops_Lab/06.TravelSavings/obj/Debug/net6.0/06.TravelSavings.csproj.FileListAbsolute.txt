@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/bin/Debug/net6.0/06.TravelSavings
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/bin/Debug/net6.0/06.TravelSavings.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/bin/Debug/net6.0/06.TravelSavings.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/bin/Debug/net6.0/06.TravelSavings.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/bin/Debug/net6.0/06.TravelSavings.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/refint/06.TravelSavings.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/06.TravelSavings.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/15.NestedLoops_Lab/06.TravelSavings/obj/Debug/net6.0/ref/06.TravelSavings.dll
