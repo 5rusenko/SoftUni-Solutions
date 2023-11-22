@@ -1,0 +1,14 @@
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/bin/Debug/net6.0/02.Rotations
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/bin/Debug/net6.0/02.Rotations.deps.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/bin/Debug/net6.0/02.Rotations.runtimeconfig.json
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/bin/Debug/net6.0/02.Rotations.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/bin/Debug/net6.0/02.Rotations.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.AssemblyInfoInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.AssemblyInfo.cs
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.csproj.CoreCompileInputs.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/refint/02.Rotations.dll
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.pdb
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/02.Rotations.genruntimeconfig.cache
+/Users/martinpetrusenko/Documents/SoftUni/SoftUni-Solutions/01. Programming Fundamentals and Unit Testing_September 2023/Exam/Source/Exam_5NOV2023/02.Rotations/obj/Debug/net6.0/ref/02.Rotations.dll
