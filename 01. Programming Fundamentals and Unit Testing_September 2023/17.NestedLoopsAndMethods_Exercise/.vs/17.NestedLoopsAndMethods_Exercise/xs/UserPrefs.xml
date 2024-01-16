@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{619E0D54-3C2C-49DD-94AD-BC30BDAEC88C}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.01.StupidPasswords PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01.StupidPasswords PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="01.StupidPasswords/01.StupidPasswords.cs">
     <Files>
       <File FileName="01.StupidPasswords/Program.cs" Line="1" Column="1" />
@@ -15,7 +14,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.MagicNumbers FirstBuild="True" />
 </Properties>
